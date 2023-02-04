@@ -1,7 +1,7 @@
 window.config = {
   siteName: 'Subconverter Web',
-  apiUrl: 'http://127.0.0.1:25500',
-  shortUrl: 'https://s.ops.ci',
+  apiUrl: 'http://www.wzry623090bk.top:25500',
+  shortUrl: 'https://xui.wzry623090bk.top',
   menuItem: [
     {
       title: '首页',
